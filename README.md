@@ -11,19 +11,7 @@ DataLens is a polished Streamlit app for data profiling, quality auditing, and M
 - Plain-English insights and recommended actions
 - Downloadable CSV and text reports
 
-## Run locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
-## Deploy on Streamlit Community Cloud
-1. Push this folder to a GitHub repo.
-2. Go to https://share.streamlit.io/
-3. Click **New app**.
-4. Select your repo.
-5. Set the main file path to `app.py`.
-6. Deploy.
 
 ## Notes
 - Upload a CSV to begin.
