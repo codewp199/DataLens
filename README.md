@@ -17,3 +17,5 @@ DataLens is a polished Streamlit app for data profiling, quality auditing, and M
 - Upload a CSV to begin.
 - You can also load a sample dataset from the sidebar.
 - Pick a target column to unlock extra ML risk checks.
+
+Live app link: https://datalens-m8cctlegynxpzta4zwno7r.streamlit.app/
